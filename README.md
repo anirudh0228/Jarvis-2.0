@@ -33,3 +33,4 @@ Steps to Follow:
 
 Change the name of tables if you want in the code.By default the password is set to root and username is also root(Change in code to the one you have specificed while creating the tables)
 
+Note---Most of the jarvis.java inside the src folder and mp3.java are the main code files to edit in.MP3.java contains more than just mp3 player code
